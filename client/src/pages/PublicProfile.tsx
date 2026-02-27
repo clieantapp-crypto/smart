@@ -32,7 +32,7 @@ const staticLinks = [
   {
     id: 1,
     title: "احصل على عرض سعر",
-    url: "https://example.com/quote",
+    url: "https://www.drxiha.site/home-new",
     imageUrl: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=800&q=80",
     order: 1,
     isActive: true,
@@ -40,7 +40,7 @@ const staticLinks = [
   {
     id: 2,
     title: "اتصل بنا",
-    url: "https://example.com/contact",
+    url: "https://www.drxiha.site/home-new",
     imageUrl: "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80",
     order: 2,
     isActive: true,
@@ -48,7 +48,7 @@ const staticLinks = [
   {
     id: 3,
     title: "عروض مميزة",
-    url: "https://example.com/offers",
+    url: "https://www.drxiha.site/home-new",
     imageUrl: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=800&q=80",
     order: 3,
     isActive: true,
